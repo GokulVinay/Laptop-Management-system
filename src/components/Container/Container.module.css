@@ -1,0 +1,3 @@
+.con {
+  @apply container mx-auto px-4 md:px-0;
+}

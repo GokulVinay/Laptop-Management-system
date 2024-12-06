@@ -1,0 +1,7 @@
+.navlink {
+  @apply font-semibold;
+}
+
+.navlink__active {
+  @apply font-bold text-indigo-500;
+}
